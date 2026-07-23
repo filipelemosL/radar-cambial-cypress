@@ -1,0 +1,16 @@
+{
+  "base": "USD",
+
+  "date": "2026-07-22",
+
+  "source": "Fixture Cypress",
+
+  "quotes": [
+    { "pair": "USD/BRL", "symbol": "BRL", "rate": 5.1, "change": null },
+
+    { "pair": "USD/EUR", "symbol": "EUR", "rate": 0.87, "change": null },
+    
+
+    { "pair": "USD/JPY", "symbol": "JPY", "rate": 163.2, "change": null }
+  ]
+}
